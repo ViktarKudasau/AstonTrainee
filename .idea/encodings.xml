@@ -14,8 +14,24 @@
     <file url="file://$PROJECT_DIR$/src/test/java/LoginTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/test/java/MainPageDucks_Copy.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/test/java/RubberDucksTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/test/java/pageOblects/BasePage.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/test/java/pageOblects/MainPage.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/test/java/pageOblects/MainPageObject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Tests/AbstractFactoryTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Tests/AbstractFactoryTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/AdultBirthdaySet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/AdultCake.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/AdultCake.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/AdultCard.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/AdultGift.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/BirthdayFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/Cake.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/Card.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/Gift.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/KidsBirthdaySet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/KidsCake.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/KidsCard.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/AbstractFactoryObjects/KidsGift.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/BasePage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/MainPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/MainPageObject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pageObjects/Singleton.java" charset="UTF-8" />
   </component>
 </project>
